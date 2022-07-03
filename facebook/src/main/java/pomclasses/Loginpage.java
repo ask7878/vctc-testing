@@ -20,7 +20,7 @@ public class Loginpage {
   
       public void pagelogin() {
 	  username.sendKeys("abhi.kadam7878@gmail.com");
-	  password.sendKeys("padmavati11217");
+	  password.sendKeys("abcd");
 	}
       
       public void loginbuttonclick() {
